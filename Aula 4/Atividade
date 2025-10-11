@@ -1,0 +1,21 @@
+# numero = int(input('Digite um número inteiro:'))
+# quadrado = numero ** 2
+# print('O quadrado do número é:', quadrado)
+
+# primeiro_nome = input('digite seu primeiro nome:')
+# sobrenome = input('digite seu sobrenome:')
+# print('Nome completo:', primeiro_nome, sobrenome)
+
+num1 = int(input('Digite o primeiro número inteiro: '))
+num2 = int(input('Digite o segundo número inteiro: '))
+print(str(num1)+str(num2))
+
+# palavra = 'Python'
+# numero = 10
+# resultado = palavra + str(numero)
+# print('Resultado:', resultado)
+
+# frase ="Eu estou aprendendo"
+# print('frase: ',frase)
+# palavra = input("Digite uma palavra para adicionar à frase: ")
+# resultado = print( frase, palavra)
